@@ -1,4 +1,4 @@
-node('master') 
+node('built6-in') 
 {
     stage('Continuous Download') 
 	{
